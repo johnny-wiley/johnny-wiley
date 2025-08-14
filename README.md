@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Johnny 👋
 
-<!--
-**johnny-wiley/johnny-wiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my career in IT support while learning Python and exploring AI + software development, with the long-term goal of launching my own SaaS products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)
+![IT Support](https://img.shields.io/badge/IT%20Support-Active%20Learning-green)
+![GitHub](https://img.shields.io/badge/GitHub-Profile%20Builder-black?logo=github)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-Problem%20Solver-orange)
+![Documentation](https://img.shields.io/badge/Documentation-Process%20Improvement-lightgrey)
+
+---
+
+## 🚀 Current Projects
+- **System Log Parser** – Automates reading `.log` files to find and summarize errors for IT troubleshooting *(coming soon)*
+- **Network Diagnostic Tool** – Checks connectivity, latency, and DNS resolution for quick network health checks *(coming soon)*
+
+---
+
+## 📚 Currently Learning
+![Google IT Support Professional Certificate](https://img.shields.io/badge/Google%20IT%20Support-In%20Progress-blue?logo=google)
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-Planned-red)
+![Security+](https://img.shields.io/badge/Security%2B-Planned-orange)
+![Flask](https://img.shields.io/badge/Flask-Beginner-black?logo=flask)
+
+---
+
+## 📫 Connect with Me
+- 📧 **Email:** [jwiley91@gmail.com](mailto:jwiley91@gmail.com)  
+- 🐙 **GitHub:** [github.com/johnny-wiley](https://github.com/johnny-wiley)
+- 💼 **LinkedIn:** [linkedin.com/in/johnnywiley](https://linkedin.com/in/johnnywiley)
+
+
+---
+
+> *"Small progress each day adds up to big results."*
