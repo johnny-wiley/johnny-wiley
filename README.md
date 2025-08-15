@@ -14,7 +14,7 @@ I'm building my career in IT support while learning Python and exploring AI + so
 ---
 
 ## 🚀 Current Projects
-- **System Log Parser** – Automates reading `.log` files to find and summarize errors for IT troubleshooting *(coming soon)*
+- **System Log Parser** – Automates reading `.log` files to find and summarize errors for IT troubleshooting
 - **Network Diagnostic Tool** – Checks connectivity, latency, and DNS resolution for quick network health checks *(coming soon)*
 
 ---
